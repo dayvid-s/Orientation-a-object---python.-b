@@ -1,0 +1,8 @@
+from pessoa import  Pessoa
+
+p1 = Pessoa()
+p2 = Pessoa()
+
+p1.nome = 'Luiz'#isso aqui é mesmo que criar uma variavel da pessoa
+                # , é chamado de criar um atributo da classe
+print(nome)
